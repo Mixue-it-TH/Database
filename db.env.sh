@@ -1,0 +1,3 @@
+export MYSQL_USER=dev
+export MYSQL_PASSWORD=M7XKEt09m1
+export MYSQL_DATABASE=itbkanban
