@@ -1,2 +1,2 @@
-USE itbkanban;
-SELECT * FROM tasks;
+USE itbkanban3;
+SELECT * FROM status;
